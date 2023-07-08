@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=PhNam24&color=ff69b4&style=plastic)
 <!--
 **PhNam24/PhNam24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
